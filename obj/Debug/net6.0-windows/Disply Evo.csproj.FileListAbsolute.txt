@@ -1,0 +1,15 @@
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\bin\Debug\net6.0-windows\Disply Evo.exe
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\bin\Debug\net6.0-windows\Disply Evo.deps.json
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\bin\Debug\net6.0-windows\Disply Evo.runtimeconfig.json
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\bin\Debug\net6.0-windows\Disply Evo.dll
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\bin\Debug\net6.0-windows\Disply Evo.pdb
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\obj\Debug\net6.0-windows\Disply Evo.csproj.AssemblyReference.cache
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\obj\Debug\net6.0-windows\Disply Evo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\obj\Debug\net6.0-windows\Disply Evo.AssemblyInfoInputs.cache
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\obj\Debug\net6.0-windows\Disply Evo.AssemblyInfo.cs
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\obj\Debug\net6.0-windows\Disply Evo.csproj.CoreCompileInputs.cache
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\obj\Debug\net6.0-windows\Disply Evo.dll
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\obj\Debug\net6.0-windows\refint\Disply Evo.dll
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\obj\Debug\net6.0-windows\Disply Evo.pdb
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\obj\Debug\net6.0-windows\Disply Evo.genruntimeconfig.cache
+C:\Users\rserrano\Documents\PROJETS\Disply Evo\obj\Debug\net6.0-windows\ref\Disply Evo.dll
